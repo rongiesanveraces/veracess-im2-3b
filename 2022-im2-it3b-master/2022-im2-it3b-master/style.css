@@ -1,0 +1,22 @@
+table{
+    background-color: skyblue;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    color: white;
+    font-family: 'Courier New';
+    font-size: 20;
+}
+
+style
+p {
+  border: 2px solid rgb(25, 163, 182);
+}
+
+
+th{
+    background-color: aquamarine;
+    color: orchid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
